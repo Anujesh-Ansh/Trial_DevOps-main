@@ -1,2 +1,2 @@
 name,errors,failures,skipped,tests,time,timestamp,hostname,testcase
-pytest,0,0,0,14,0.046,2024-08-24T09:30:14.864990,Anujeshs-MacBook-Air.local,
+pytest,0,0,0,14,0.035,2024-08-30T10:19:48.131451,Anujeshs-MacBook-Air.local,
